@@ -1,0 +1,25 @@
+{
+  "name": "jquery-mobile-babel-safe",
+  "version": "1.4.5-1",
+  "description": "Babe safe version of jQuery mobile",
+  "main": "js/jquery.mobile-1.4.5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsumilang/jquery-mobile-babel-safe.git"
+  },
+  "keywords": [
+    "jquery",
+    "mobile",
+    "babel",
+    "transpile"
+  ],
+  "author": "Richard Sumilang",
+  "license": "USE AT YOUR OWN RISK.",
+  "bugs": {
+    "url": "https://github.com/rsumilang/jquery-mobile-babel-safe/issues"
+  },
+  "homepage": "https://github.com/rsumilang/jquery-mobile-babel-safe"
+}

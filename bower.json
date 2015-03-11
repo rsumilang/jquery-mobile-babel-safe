@@ -1,0 +1,15 @@
+{
+  "name": "jquery-mobile-babel-safe",
+  "version": "1.4.5-1",
+  "main": [
+    "js/jquery.mobile-1.4.5.js",
+    "css/jquery.mobile-1.4.5.css"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rsumilang/jquery-mobile-babel-safe.git"
+  }
+}
