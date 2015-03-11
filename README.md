@@ -13,7 +13,7 @@ NPM:
 Update *package.json*:
 
     "browser": {
-      "jquery-mobile": "./node_modules/jquery-mobile-babel-safe/dist/jquery.mobile.js"
+      "jquery-mobile": "./node_modules/jquery-mobile-babel-safe/dist/jquery.mobile-1.4.5.js"
     },
     "browserify-shim": {
       "jquery-mobile": {
