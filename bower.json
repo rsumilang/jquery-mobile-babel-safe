@@ -11,5 +11,28 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/rsumilang/jquery-mobile-babel-safe.git"
-  }
+  },
+  "homepage": "https://github.com/rsumilang/jquery-mobile-babel-safe",
+  "authors": [
+    "Richard Sumilang <me@richardsumilang.com>"
+  ],
+  "description": "Babel safe version of jQuery mobile",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "jquery",
+    "mobile",
+    "babel",
+    "transpile"
+  ],
+  "license": "UE AT YOUR OWN RISK.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

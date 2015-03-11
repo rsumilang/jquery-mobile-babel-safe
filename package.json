@@ -1,7 +1,7 @@
 {
   "name": "jquery-mobile-babel-safe",
   "version": "1.4.5-1",
-  "description": "Babe safe version of jQuery mobile",
+  "description": "Babel safe version of jQuery mobile",
   "main": "js/jquery.mobile-1.4.5.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
